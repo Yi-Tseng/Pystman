@@ -2,8 +2,8 @@ Pystman - The Implementation of Message Service by Python
 -----------------------------------------------------
 
 **Developed by**
-Tseng Yi: a86487817 [at] gmail.com
+ Tseng Yi: a86487817 [at] gmail.com
 
 **License**
-MIT
+ MIT
 
