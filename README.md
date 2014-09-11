@@ -1,4 +1,4 @@
-PMS - The Implementation of Message Service by Python
+Pystman - The Implementation of Message Service by Python
 -----------------------------------------------------
 
 **Developed by**
